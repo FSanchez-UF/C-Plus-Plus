@@ -21,5 +21,6 @@ var dir_9510827d0b234b3cc54b29892f217477 =
     [ "spiral_print.cpp", "db/d07/spiral__print_8cpp.html", "db/d07/spiral__print_8cpp" ],
     [ "stairs_pattern.cpp", "d5/def/stairs__pattern_8cpp.html", "d5/def/stairs__pattern_8cpp" ],
     [ "tower_of_hanoi.cpp", "db/d3c/tower__of__hanoi_8cpp.html", "db/d3c/tower__of__hanoi_8cpp" ],
+    [ "Tree_Level_Count.cpp", "dc/de9/_tree___level___count_8cpp.html", "dc/de9/_tree___level___count_8cpp" ],
     [ "vector_important_functions.cpp", "d3/d61/vector__important__functions_8cpp.html", "d3/d61/vector__important__functions_8cpp" ]
 ];

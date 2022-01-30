@@ -96,6 +96,7 @@ var hierarchy =
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
     ] ],
     [ "data_structures::tree_234::Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", null ],
+    [ "TreeNode", "de/d32/class_tree_node.html", null ],
     [ "data_structures::trie", "d0/d3e/classdata__structures_1_1trie.html", null ],
     [ "data_structures::trie_using_hashmap::Trie", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html", null ],
     [ "Trie", "dd/d2f/class_trie.html", null ],

@@ -181,6 +181,7 @@ var annotated_dup =
     [ "stack_linkedList", "d2/dc4/classstack__linked_list.html", null ],
     [ "TestCases", "d5/d58/class_test_cases.html", "d5/d58/class_test_cases" ],
     [ "tower", "d2/d2c/structtower.html", "d2/d2c/structtower" ],
+    [ "TreeNode", "de/d32/class_tree_node.html", null ],
     [ "Trie", "dd/d2f/class_trie.html", "dd/d2f/class_trie" ],
     [ "uint128_t", "db/d9a/classuint128__t.html", "db/d9a/classuint128__t" ],
     [ "uint256_t", "d1/d83/classuint256__t.html", "d1/d83/classuint256__t" ]
